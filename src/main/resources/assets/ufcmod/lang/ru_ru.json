@@ -1,0 +1,19 @@
+{
+  "item.ufcmod.mma_gloves": "Перчатки ММА",
+  "item.ufcmod.champion_belt": "Чемпионский пояс",
+  "block.ufcmod.octagon_mat": "Татами октагона",
+  "itemGroup.ufcmod": "UFC Мод",
+  "key.categories.ufcmod": "UFC Мод",
+  "key.ufcmod.stance": "Боевая стойка (вкл/выкл)",
+  "key.ufcmod.leg_kick": "Лоу-кик",
+  "key.ufcmod.head_kick": "Хай-кик в голову",
+  "key.ufcmod.block": "Защита (удерживать)",
+  "key.ufcmod.dodge": "Уклонение / вырваться с земли",
+  "key.ufcmod.takedown": "Тейкдаун",
+  "key.ufcmod.submit": "Болевой / удушение (удерживать)",
+  "msg.ufcmod.stance_on": "Боевая стойка: ВКЛ",
+  "msg.ufcmod.stance_off": "Боевая стойка: ВЫКЛ",
+  "msg.ufcmod.gassed": "Выдохся! Не хватает выносливости",
+  "key.ufcmod.profile": "Профиль бойца (рост / вес / размах)",
+  "screen.ufcmod.profile": "Профиль бойца"
+}

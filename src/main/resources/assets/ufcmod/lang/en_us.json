@@ -1,0 +1,19 @@
+{
+  "item.ufcmod.mma_gloves": "MMA Gloves",
+  "item.ufcmod.champion_belt": "Champion Belt",
+  "block.ufcmod.octagon_mat": "Octagon Mat",
+  "itemGroup.ufcmod": "UFC Mod",
+  "key.categories.ufcmod": "UFC Mod",
+  "key.ufcmod.stance": "Fight stance (toggle)",
+  "key.ufcmod.leg_kick": "Leg kick",
+  "key.ufcmod.head_kick": "Head kick",
+  "key.ufcmod.block": "Guard (hold)",
+  "key.ufcmod.dodge": "Dodge / escape ground",
+  "key.ufcmod.takedown": "Takedown",
+  "key.ufcmod.submit": "Submission (hold)",
+  "msg.ufcmod.stance_on": "Fight stance: ON",
+  "msg.ufcmod.stance_off": "Fight stance: OFF",
+  "msg.ufcmod.gassed": "Gassed! Not enough stamina",
+  "key.ufcmod.profile": "Fighter profile (height / weight / reach)",
+  "screen.ufcmod.profile": "Fighter Profile"
+}
